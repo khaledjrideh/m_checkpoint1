@@ -1,0 +1,5 @@
+create table dictionary(
+	id serial primary key,
+	word varchar not null,
+	translation varchar not null
+);
