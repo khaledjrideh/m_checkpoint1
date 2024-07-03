@@ -3,7 +3,7 @@ import psycopg2
 hostname = 'localhost'
 database = 'dvdrental'
 username = 'postgres'
-pwd = 'Beornottobe1'
+pwd = 'Brnotto'
 port_id = 5432
 
 def db_connection():
